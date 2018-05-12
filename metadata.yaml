@@ -1,0 +1,38 @@
+_repo: An-Australian-Bird-BookA-Pocket-Book-for-Field-Use_34781
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Tate, Frank
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '36578'
+    url: http://www.gutenberg.org/2009/agents/36578
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Tate_%28educator%29
+covers:
+- cover_type: archival
+  image_path: 34781-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Leach, John Albert
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '37222'
+    url: http://www.gutenberg.org/2009/agents/37222
+    wikipedia: http://en.wikipedia.org/wiki/John_Albert_Leach
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2010-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Australia'
+title: 'An Australian Bird Book: A Pocket Book for Field Use'
+url: http://www.gutenberg.org/ebooks/34781
