@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37222
     wikipedia: http://en.wikipedia.org/wiki/John_Albert_Leach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34781#An-Australian-Bird-BookA-Pocket-Book-for-Field-Use
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
